@@ -5,3 +5,10 @@ target
 .soroban
 .stellar
 contracts/invoke_results.txt
+
+# Frontend
+vesting-dapp/node_modules
+vesting-dapp/dist
+vesting-dapp/.env
+vesting-dapp/*.local
+vesting-dapp/coverage
