@@ -10,8 +10,9 @@ export const CONTRACT_ADDRESSES = {
 }
 
 export const DEPLOYMENT = {
-  TX_HASH: 'a1b2c3d4e5f6...', // Replace with actual testnet tx hash
-  DEPLOYER_ADDRESS: 'G...', // Your deployer address
+  TX_HASH: '813d7b9dddd37ccecd3a21b38e043c59fa1f22be52bab67c1a7a0aa6c42a6a3c',
+  FUND_TX_HASH: '5475a6dd42e4655807a3d7c68863fcead5ebcec5d5e4421cc86ff86bd3fdaf23',
+  ACCOUNT_ADDRESS: 'GCQ7TNZASMNVZZF457IHEAGAZPV7GILUS433JOTE5QP3Z7Z2J6QUICH7',
 }
 
 export const STELLAR_EXPERT_URL = 'https://stellar.expert/explorer/testnet'

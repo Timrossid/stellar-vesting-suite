@@ -241,7 +241,7 @@ fn vote_on_proposal(voter: Address, proposal_id: u64, is_yes: bool)
 |---|---|
 | **Network** | Stellar Testnet |
 | **Contract ID** | `CD6OGC46OFCV52IJQKEDVKLX5ASA3ZMSTHAAZQIPDSJV6VZ3KUJDEP4D` |
-| **Transaction Hash** | `a1b2c3d4e5f6...` (view on StellarExpert) |
+| **Transaction Hash** | `813d7b9dddd37ccecd3a21b38e043c59fa1f22be52bab67c1a7a0aa6c42a6a3c` ([StellarExpert](https://stellar.expert/explorer/testnet/tx/813d7b9dddd37ccecd3a21b38e043c59fa1f22be52bab67c1a7a0aa6c42a6a3c)) |
 
 ## 📊 Gas Costs
 

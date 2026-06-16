@@ -12,3 +12,6 @@ vesting-dapp/dist
 vesting-dapp/.env
 vesting-dapp/*.local
 vesting-dapp/coverage
+
+# Test output
+test_output.txt
