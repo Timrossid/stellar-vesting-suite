@@ -11,7 +11,7 @@ This project is submitted for **Level 3: Advanced Smart Contracts + Production-R
 - [x] Public GitHub repository
 - [x] README with complete documentation
 - [x] 10+ meaningful commits
-- [x] Live demo link ([Vercel Deployment](https://vesting-dapp.vercel.app))
+- [x] Live demo link ([Vercel Deployment](https://stellar-vesting-suite.vercel.app))
 - [x] Smart contract deployment address
 - [x] Transaction hash for contract interaction
 - [x] Mobile responsive UI
@@ -284,7 +284,7 @@ fn vote_on_proposal(voter: Address, proposal_id: u64, is_yes: bool)
 ## 📹 Demo
 
 - **Demo Video**: [Link to 1-2 min demo]()
-- **Live dApp**: [https://vesting-dapp.vercel.app](https://vesting-dapp.vercel.app)
+- **Live dApp**: [https://stellar-vesting-suite.vercel.app](https://stellar-vesting-suite.vercel.app)
 - **StellarExpert**: [View Contract](https://stellar.expert/explorer/testnet/contract/CD6OGC46OFCV52IJQKEDVKLX5ASA3ZMSTHAAZQIPDSJV6VZ3KUJDEP4D)
 
 ## 🤝 Contributing
