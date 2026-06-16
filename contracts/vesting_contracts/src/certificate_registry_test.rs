@@ -1,7 +1,7 @@
 #![cfg(test)]
 
 use soroban_sdk::{vec, Address, Env, String, U256, Vec};
-use soroban_sdk::testutils::Address as _;
+use soroban_sdk::testutils::{Address as _, Ledger};
 use crate::{
     VestingContract, VestingContractClient, Vault, AssetAllocationEntry, DataKey,
     certificate_registry::{

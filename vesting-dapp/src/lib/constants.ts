@@ -9,6 +9,11 @@ export const CONTRACT_ADDRESSES = {
   VAULT_CONTRACT: '',
 }
 
+export const DEPLOYMENT = {
+  TX_HASH: 'a1b2c3d4e5f6...', // Replace with actual testnet tx hash
+  DEPLOYER_ADDRESS: 'G...', // Your deployer address
+}
+
 export const STELLAR_EXPERT_URL = 'https://stellar.expert/explorer/testnet'
 
 export const SWITCH_DURATION_MIN = 2592000
